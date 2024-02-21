@@ -1,7 +1,6 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -9,8 +8,8 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Michal essa",
-  "license": "ISC",
+  "author": "Michal M",
+  "license": "BeerWare",
   "dependencies": {
     "axios": "^1.6.7",
     "cors": "^2.8.5",
@@ -18,5 +17,6 @@
     "mongoose": "^8.0.4",
     "nodemon": "^3.0.3",
     "react-icon": "^1.0.0"
-  }
+  },
+  "description": ""
 }
