@@ -1,10 +1,9 @@
 Project MovieWeb is not a commercial project, but it is a tool to help regular user in collecting and modifying entries for their own personal purpose. Project is very simple and should suffice to satisfy basic needs of regular user in this field 
- 
+
 # Table of Contents
 [General Info](#General),
 [Technologies Used](#Technologies),
 [Features](#Features),
-[Screenshots](#Screenshots),
 [Setup](#Setup),
 [Usage](#Usage),
 [Project Status](#Project)
