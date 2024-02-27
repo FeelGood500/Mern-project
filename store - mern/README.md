@@ -1,7 +1,6 @@
-Raport Control
-This projet was created in purpose to obtain a grade at uni. It will probably not be supported, but in means of creating the project, I came up with simple idea of a movie database, that can display entries, collect new entries, delete or modify them.
-
-Table of Contents
+Project MovieWeb is not a commercial project, but it is a tool to help regular user in collecting and modifying entries for their own personal purpose. Project is very simple and should suffice to satisfy basic needs of regular user in this field 
+ 
+# Table of Contents
 [General Info](#General),
 [Technologies Used](#Technologies),
 [Features](#Features),
@@ -10,10 +9,12 @@ Table of Contents
 [Usage](#Usage),
 [Project Status](#Project)
 ---
-General Information
+# General Information
+This projet was created in purpose to obtain a grade at uni. It will probably not be supported, but in means of creating the project, I came up with simple idea of a movie database, that can display entries, collect new entries, delete or modify them.
 
 
-Technologies Used
+
+# Technologies Used
 - NodeJS v20.1.0
 - express 4.18.2
 - mongodb 6.3.0
@@ -21,12 +22,12 @@ Technologies Used
 - NodeJS 21.6.2
 - tailwindcss 3.4.1
 - vite 5.1.3
-Features
+# Features
 List of the planned features here:
 
 Using CRUD methods on database data that are movies 
 
-Setup
+# Setup
 Dependencies are listed in package.json respectively in backend and frontend. To install you need to:
 
 Install all dependencies by going into backend and frontend folders and typing
@@ -44,5 +45,6 @@ Same to do with forntend
 
 npm run dev
 
-Project Status
+
+# Project Status
 Project is still in progress. currently working on displaying data. (Project may not be supported in the future.)
