@@ -5,7 +5,6 @@ Project MovieWeb is not a commercial project, but it is a tool to help regular u
 [Technologies Used](#Technologies),
 [Features](#Features),
 [Setup](#Setup),
-[Usage](#Usage),
 [Project Status](#Project)
 ---
 # General Information
