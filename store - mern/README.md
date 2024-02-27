@@ -2,12 +2,12 @@ Raport Control
 This projet was created in purpose to obtain a grade at uni. It will probably not be supported, but in means of creating the project, I came up with simple idea of a movie database, that can display entries, collect new entries, delete or modify them.
 
 Table of Contents
-[General Info](#General)
-[Technologies Used](#Technologies)
-[Features](#Features)
-[Screenshots](#Screenshots)
-[Setup](#Setup)
-[Usage](#Usage)
+[General Info](#General),
+[Technologies Used](#Technologies),
+[Features](#Features),
+[Screenshots](#Screenshots),
+[Setup](#Setup),
+[Usage](#Usage),
 [Project Status](#Project)
 ---
 General Information
