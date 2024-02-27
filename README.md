@@ -1,2 +1,0 @@
-# Mern-project
- movie browser
